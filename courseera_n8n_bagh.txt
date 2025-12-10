@@ -1,0 +1,55 @@
+Course Description:
+
+This course explores how to build intelligent, AI-powered automation workflows using n8n and DeepSeek. Designed for learners who want to blend workflow automation with the capabilities of large language models (LLMs), the course starts with foundational concepts, real-world scenarios, and hands-on system design. Participants will learn to use n8n’s visual interface to create scalable, end-to-end automations and integrate DeepSeek for contextual understanding and intelligent action.
+
+Learners will gain practical experience by developing intelligent agents that extract insights from PDFs, automate data entry into Google Sheets, classify and route emails, and generate responses—all powered by DeepSeek. The course also covers integrations with Gmail, Google Sheets, and document parsing tools like Poppler, along with key topics such as prompt engineering, LLM configuration, and error management. Through guided lessons and real projects, learners will acquire the skills to confidently deploy reliable and intelligent AI automations for real-world business needs.
+
+Module 1: Foundations of Workflow Automation and Project Setup
+This module introduces learners to workflow automation concepts and prepares them to build AI-driven systems. Beginning with the project’s problem statement and objectives, the module explores automation vs. augmentation, the evolution of tools, and the strategic use of AI in automation. Learners will become familiar with n8n’s environment, install required components, and connect tools like Gmail, Google Sheets, and DeepSeek to set up their project ecosystem.
+
+Module 2: Designing Intelligent Workflows with n8n and LLMs
+In this hands-on module, learners will start building automation workflows using n8n’s trigger-action structure. They will configure manual and HTTP triggers, test flow logic, and use DeepSeek’s LLMs for classification and generation. The module includes practical workflows like an AI-powered email responder and random quote generator, demonstrating how to embed intelligent agents in automation scenarios using LLMs.
+
+Module 3: Automating Data Analysis with DeepSeek and n8n
+This module focuses on building a powerful agent that processes PDF attachments, extracts text using Poppler, and identifies key fields using LLMs. Learners will apply prompt engineering techniques to improve accuracy, configure data flow to Google Sheets, and use agent nodes to build workflows that intelligently handle real-world inputs. The module showcases how AI and automation can be combined to drive insight extraction and intelligent task execution.
+
+Module 4: Error Handling and Deployment
+The final module equips learners with the tools to test, troubleshoot, and deploy their intelligent workflows. Learners will implement error handling mechanisms using node-level logic and error triggers, finalize their automation logic, and deploy their agents into production. The module emphasizes monitoring performance, managing workflow stability, and optimizing AI tasks for scalability and robustness in dynamic environments.
+
+Learning Objectives
+Understand the fundamentals of workflow automation and n8n’s capabilities
+
+Design and implement automation workflows using triggers, actions, and logic nodes
+
+Integrate DeepSeek for AI-powered classification, generation, and context-aware decision-making
+
+Apply prompt engineering to enhance task accuracy and LLM performance
+
+Handle errors gracefully and deploy intelligent automations with confidence and reliability
+
+Target Audience
+Aspiring no-code developers and automation enthusiasts
+
+Product managers and operations professionals
+
+AI/ML practitioners exploring workflow integration
+
+Startup founders and solopreneurs seeking task automation
+
+Workflow designers and digital transformation teams
+
+Customer support and marketing professionals
+
+Anyone curious about building intelligent agents without coding
+
+Information on Grading and Quizzes
+
+There will be 1 practice quiz assignment after each lesson and 1 graded quiz assignment in the end of each module.
+
+Practice Quiz: 5 multiple choice questions with unlimited attempts. Practice quizzes are not considered for the final evaluation.
+
+Graded Quiz: 20 multiple choice questions with 3 initial attempts. After three attempts, the quiz will be closed for eight hours until it reopens for more attempts. The exam is worth 100% of your final grade.  
+
+Note
+
+Please note that this course is the 3rd course of Specialization: Mastering DeepSeek.ai: From Fundamentals to Advanced Applications.
